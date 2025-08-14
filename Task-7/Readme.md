@@ -1,5 +1,9 @@
 # Task 7: Monitor System Resources Using Netdata on your system :
 
+# Project Overview: Monitor System Resources Using Netdata
+
+I set up Netdata, a real time monitoring tool, to track and visualize system and application performance metrics. I deployed Netdata to monitor key resources like CPU, memory and disk usage, as well as the performance of Docker containers. I explored the interactive dashboard to analyze metrics, reviewed alerts, and checked logs to understand system behavior. This helped gain insights into system performance and identify potential issues efficiently.
+
 <img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/0bad0554-3cc3-4c01-86d9-0e7d178a91a0" />
 
 
